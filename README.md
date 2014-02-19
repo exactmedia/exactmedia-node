@@ -1,4 +1,7 @@
-# [Exact Media](http://www.exactmedia.io/) Node.js Client
+# Exact Media Node.js Client
+
+
+[Node.js](http://nodejs.org/) client for [Exact Media](http://www.exactmedia.io/) API.
 
 
 ## Installation
