@@ -1,4 +1,4 @@
-# [Exact Media](http://www.exactmedia.io/) [Node.js](http://nodejs.org/) Client
+# [Exact Media](http://www.exactmedia.io/) Node.js Client
 
 
 ## Installation
