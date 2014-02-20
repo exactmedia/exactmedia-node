@@ -6,7 +6,7 @@
 
 ## Installation
 
-### Using [NPM](https://www.npmjs.org/)
+### Using [npm](https://www.npmjs.org/)
 
 ```sh
 npm install exactmedia
