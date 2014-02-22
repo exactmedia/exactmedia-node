@@ -13,6 +13,23 @@ npm install exactmedia
 ```
 
 
+## Usage
+
+```js
+var exactmedia = require('exactmedia');
+```
+
+
+## API
+
+### exactmedia.security
+
+```
+.decrypt(encryptedData, key);
+.encrypt(data, key);
+```
+
+
 ## License
 
 <pre>

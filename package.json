@@ -1,0 +1,38 @@
+{
+  "name": "exactmedia",
+  "description": "Exact Media Node.js client library",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Exact Media Dev Team",
+    "email": "dev@exactmedia.io"
+  },
+  "homepage": "https://github.com/exactmedia/exactmedia-node",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/author/exactmedia-node.git"
+  },
+  "keywords": [
+    "exactmedia",
+    "exact",
+    "media",
+    "client",
+    "library"
+  ],
+  "dependencies": {
+    "async": "^0.2.10",
+    "lodash": "^2.4.1",
+    "moment": "^2.5.1",
+    "string": "^1.8.0"
+  },
+  "devDependencies": {
+    "colors": "^0.6.2",
+    "grunt": "^0.4.2",
+    "grunt-contrib-jshint": "^0.8.0",
+    "grunt-contrib-watch": "^0.5.3",
+    "matchdep": "^0.3.0"
+  },
+  "scripts": {
+    "prepublish": "npm prune"
+  }
+}
